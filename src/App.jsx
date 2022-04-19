@@ -5,7 +5,7 @@ import {
   Services,
   Loader,
   Welcome,
-} from "./components";
+} from "./components/Index";
 
 const App = () => {
   return (
